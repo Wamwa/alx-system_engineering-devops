@@ -1,1 +1,1 @@
-development operations
+shell redirections
